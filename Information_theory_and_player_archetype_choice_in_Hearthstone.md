@@ -38,6 +38,17 @@ Shannon entropy, Bayes\` thoerem 등을 사용한다.
 # 2 Data explanation and explanation
 유의미 하게 응용 가능할 것으로 여겨지는 몇가지 수식을 소개하겠다.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+* Shannon information entropy  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" title="\Large " />
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+* Max Shannon information entropy  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X)_{max} = lg(P(X))" title="\Large " />
+
+* Express Shannon information entropy  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \hat H(X)= H(X) / H(X)_{max} " title="\Large " />  
+
+ratio로 표현하면 평가하기가 더 유리하다.
+
+# 3 Infomation storage and understanding player choice
+이후 내용은 Hearthstone의 역사를 Infomatic theory를 사용하여 표현한 것에 대한 내용이다.
+당장 필요한 내용은 아님으로 패스한다.
