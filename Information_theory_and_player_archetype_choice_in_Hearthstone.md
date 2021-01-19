@@ -50,5 +50,5 @@ Shannon entropy, Bayes\` thoerem 등을 사용한다.
 ratio로 표현하면 평가하기가 더 유리하다.
 
 # 3 Infomation storage and understanding player choice
-이후 내용은 Hearthstone의 역사를 Infomatic theory를 사용하여 표현한 것에 대한 내용이다.
+이후 내용은 Hearthstone의 역사를 Infomatic theory를 사용하여 표현한 것에 대한 내용이다.  
 당장 필요한 내용은 아님으로 패스한다.
