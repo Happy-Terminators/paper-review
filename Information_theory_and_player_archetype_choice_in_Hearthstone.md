@@ -1,3 +1,5 @@
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
 # 1 Introduction
 Authority Layer / Meta Layer / Tactical Layer 3가지로 분류가 가능하다.
 1. Authority Layer : new cards, change rules, New play mechine, Tweak Cards
@@ -42,7 +44,7 @@ Shannon entropy, Bayes\` thoerem 등을 사용한다.
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" title="\Large H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" />
 
 * Max Shannon information entropy  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X)_{max} = lg(P(X))" title="\Large H(X)_{max} = lg(P(X))" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X)_{max} = lg(P(X))" title="\Large H(X)_{max} = lg(n)" />
 
 * Express Shannon information entropy  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; \hat H(X)= H(X) / H(X)_{max} " title="\Large hat H(X)= H(X) / H(X)_{max} " />  
