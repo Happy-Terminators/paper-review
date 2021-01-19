@@ -36,6 +36,4 @@ Shannon entropy, Bayes\` thoerem 등을 사용한다.
 
 # 2 Data explanation and explanation
 유의미 하게 응용 가능할 것으로 여겨지는 몇가지 수식을 소개하겠다.
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
