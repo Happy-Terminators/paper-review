@@ -39,13 +39,13 @@ Shannon entropy, Bayes\` thoerem 등을 사용한다.
 유의미 하게 응용 가능할 것으로 여겨지는 몇가지 수식을 소개하겠다.
 
 * Shannon information entropy  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" title="\Large " />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" title="\Large H(X) = -\sum_{i=0}^{n} {P(X_i) lg(P(X_i))}" />
 
 * Max Shannon information entropy  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X)_{max} = lg(P(X))" title="\Large " />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; H(X)_{max} = lg(P(X))" title="\Large H(X)_{max} = lg(P(X))" />
 
 * Express Shannon information entropy  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; \hat H(X)= H(X) / H(X)_{max} " title="\Large " />  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \hat H(X)= H(X) / H(X)_{max} " title="\Large hat H(X)= H(X) / H(X)_{max} " />  
 
 ratio로 표현하면 평가하기가 더 유리하다.
 
